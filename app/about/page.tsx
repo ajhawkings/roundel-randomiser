@@ -18,7 +18,7 @@ export default function Page() {
         the gameplay and makes it work better for me!
       </p>
       <p style={{ textAlign: "center" }}>
-        Made by ajhawkings! Available on <a href="https://github.com/ajhawkings/tubegame">GitHub</a><br />
+        Made by ajhawkings! Available on <a href="https://github.com/ajhawkings/roundel-randomiser">GitHub</a><br />
         Also check out my <a href="https://www.hawkings.me">website</a> :)
       </p>
       <p>

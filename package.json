@@ -1,6 +1,5 @@
 {
-  "name": "tubegame",
-  "version": "0.1.0",
+  "name": "roundel-randomiser",
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
