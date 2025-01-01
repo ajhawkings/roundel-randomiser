@@ -11,7 +11,7 @@ export default async function Page() {
 
   const images = await Promise.all(
     files.map(async (file) => {
-      const image = await import(`../../public/roundels/${file}`);
+      const image = await import(`@/public/roundels/${file}`);
       return image.default;
     })
   );
